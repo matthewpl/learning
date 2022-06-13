@@ -1,0 +1,13 @@
+# ninja log v5
+102	183	6766921163405895	CppLearning.exe	f6338310ab4b52be
+3	101	6766921162605167	CMakeFiles/CppLearning.dir/algorithm/search/binary_search.cpp.obj	2c04da5e5a5139f2
+2	290	6766919215916053	CMakeFiles/CppLearning.dir/main.cpp.obj	89b5f060ba08a1f2
+13	248	6766810660531005	CMakeFiles/CppLearning.dir/functions/lambda.cpp.obj	40e9e3d9fb6ba06e
+1	142	6768511554033501	build.ninja	81cb5b4ccbeac197
+3	62	6766810658669306	CMakeFiles/CppLearning.dir/types/auto.cpp.obj	cff386be22886594
+21	64	6766810658679314	CMakeFiles/CppLearning.dir/stdlib/random.cpp.obj	ff81f6ff7dc678a8
+2	269	6766835540143685	CMakeFiles/CppLearning.dir/algorithm/sort/mergesort.cpp.obj	2d6bbfe5161ac2b9
+11	108	6766840845942128	CMakeFiles/CppLearning.dir/algorithm/tools/checksort.cpp.obj	3b23f47c46f5768f
+14	334	6768512320088283	CMakeFiles/CppLearning.dir/basics/hello_world.cpp.obj	b8dc2873fa9f95a8
+2	340	6768512320138325	CMakeFiles/CppLearning.dir/main.cpp.obj	89b5f060ba08a1f2
+340	550	6768512322220222	CppLearning.exe	cb5bcf699d890ecc
